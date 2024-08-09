@@ -2,7 +2,7 @@
 
 ## AWS Data Analysis Architecture Diagram - (AWS S3, AWS Glue Crawler, AWS Data Catalogue, AWS Athena, AWS QuickSight)
   
-  ![S3-Athena](https://github.com/user-attachments/assets/66f60718-01b2-48b3-82a3-b6acb1945586)
+![S3 project](https://github.com/user-attachments/assets/617eb121-5636-4c37-9e6b-3467cf5c3aaa)
 
   
 
